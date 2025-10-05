@@ -2,7 +2,7 @@
 
 A modern, real-time currency converter built with React and Vite. Features a searchable dropdown interface with support for 30+ currencies, powered by the Frankfurter API.
 
-![Currency Converter Preview](./preview.png)
+![Currency Converter Preview](./screenshots/preview.png)
 
 ## 🌟 Features
 
