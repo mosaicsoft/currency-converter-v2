@@ -18,7 +18,7 @@ A modern, real-time currency converter built with React and Vite. Features a sea
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-demo-link.com) _(Add your deployed link here)_
+[View Live Demo](https://mosaicsoft.github.io/currency-converter-v2/)
 
 ## 🛠️ Tech Stack
 
@@ -307,11 +307,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Sasmit Vasantgadkar**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- GitHub: [@mosaicsoft](https://github.com/mosaicsoft)
+- LinkedIn: [Sasmit Vasantgadkar](https://linkedin.com/in/sasmitv)
+<!-- - Portfolio: [yourwebsite.com](https://yourwebsite.com) -->
 
 ## 🙏 Acknowledgments
 
@@ -322,10 +322,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📊 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/currency-converter?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/currency-converter?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/currency-converter)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/currency-converter)
+![GitHub stars](https://img.shields.io/github/stars/mosaicsoft/currency-converter-v2?style=social)
+![GitHub forks](https://img.shields.io/github/forks/mosaicsoft/currency-converter-v2?style=social)
+![GitHub issues](https://img.shields.io/github/issues/mosaicsoft/currency-converter-v2)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/mosaicsoft/currency-converter-v2)
 
 ---
 
